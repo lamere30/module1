@@ -1,2 +1,2 @@
 # module1
-Thjis is for module 3 demo
+This is for module 1 demo
